@@ -1,6 +1,6 @@
 # AMR_tutorial
 Description of AMR data processing in python
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/venomj26/AMR_Tut/master)
+[![Binder](https://mybinder.org/badge_logo.svg)]https://mybinder.org/v2/gh/baile343/AMR_Tut/tree/master/HEAD
 
 ## A brief overview
 
